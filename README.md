@@ -1,8 +1,8 @@
 <h2 align="center">
-    ──「 𝄟⃝🐰Annu🐼⏤͟͟ ダ 」──
+    ──「 KRISHNA 」──
 </h2>
 
-<p align="center"><a href="https://t.me/Mis_Annuu_chatbot"><img src="https://te.legra.ph/file/a7b8068c4f245a4300cd5.jpg"></a></p>
+<p align="center"><a href="http://t.me/CANDY_CRUSH_CHAT1_BOT"><img src="https://te.legra.ph/file/7c8d8dbbc71cd6bfd6250.jpg"></a></p>
 
 
 <h3 align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<a href="http://t.me/Mis_Annuu_chatbot"><img src="https://img.shields.io/badge/%20𝄟⃝🐰Annu🐼⏤͟͟-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="http://t.me/CANDY_CRUSH_CHAT1_BOT"><img src="https://img.shields.io/badge/%20𝄟⃝🐰Annu🐼⏤͟͟-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
@@ -30,7 +30,7 @@
 </h3>
 
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐓𝐄𝐀𝐌 𝐃𝐄𝐕𝐈𝐋](https://github.com/sahilsaim1919) ғᴏʀ [𝄟⃝🐰Annu🐼⏤͟͟ ʙᴏᴛ](https://github.com/sahilsaim1919/Anu_chatt_Bot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐓𝐄𝐀𝐌 𝐃𝐄𝐕𝐈𝐋](https://github.com/sahilsaim1919) ғᴏʀ [KRISHNA](https://github.com/sahilsaim1919/Anu_chatt_Bot)_ </b>
  
 - <b> 𝑴𝒐𝒔𝒕 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑨𝒏𝒅 𝑪𝒓𝒆𝒅𝒊𝒕𝒆𝒅 𝑩𝒚𝒚 🥳🥳
 
