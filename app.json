@@ -1,7 +1,7 @@
 {
-    "name": "Mis_Annuu_chatbot", 
+    "name": "CANDY & KRISHNA CHAT BOT", 
     "description": "A Telegram Best Artificial Intelligence Chat Bot , written in Python with Pyrogram",
-    "logo": "https://te.legra.ph/file/a7b8068c4f245a4300cd5.jpg",
+    "logo": "https://te.legra.ph/file/7c8d8dbbc71cd6bfd6250.jpg",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
