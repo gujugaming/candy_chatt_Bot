@@ -9,7 +9,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ Heroku 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/sahilsaim1919/Anu_chatt_Bot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=Heroku" width="220" height="39.46"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/gujugaming/candy_chatt_Bot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=Heroku" width="220" height="39.46"/></a></p>
 
 
  
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<a href="http://t.me/CANDY_CRUSH_CHAT1_BOT"><img src="https://img.shields.io/badge/%20𝄟⃝🐰Annu🐼⏤͟͟-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="http://t.me/CANDY_CRUSH_CHAT1_BOT"><img src="https://img.shields.io/badge/%20 𝐈𝛕ᷟ͢𝚣⃪ꙴ ⋆‌⃝❥︎◄❱⋆‌⋆‌⃝⋆‌⃝🅒︎ʀᴜꜱ⃯ͦʜᷫ»͎ᷛ ͥ ᷢ ᷞ_̽𓆩🖤𓆪❥᛫᛫᛫-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
